@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E7E6F7</color>
+    <color name="colorPrimaryDark">#827081</color>
+    <color name="endBeige">#AEA3B0</color>
+    <color name="colorPrimaryTint">#C6D2ED</color>
+    <color name="startBeige">#E3D0D8</color>
+
+</resources>
